@@ -1,0 +1,159 @@
+/***************************
+BODY
+***************************/
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+/***************************
+IMAGE
+***************************/
+
+img.logo {
+	display: block;
+	margin: auto;
+}
+
+.logo {
+	text-align: center;
+	padding-top: 140px;
+}
+/***************************
+FORM and BUTTONS
+***************************/
+
+.search {
+	display: block;
+	margin: auto;
+	margin-top: 0;
+	width: 620px;
+	height: 28px;
+	margin-top: -17px;
+}
+
+.buttons {
+	list-style-type: none;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: -25px;
+}
+
+.google,
+.luck {
+	color: #444;
+	font-weight: 600;
+	background-color: #F1F1F1;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	border-radius: 2px;
+	color: #444;
+	font-family: arial, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	margin: 11px 8px;
+	min-width: 54px;
+	padding: 7px 8px;
+	text-align: center;
+}
+/***************************
+TOP NAVBAR
+***************************/
+
+ul.top {
+	float: right;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	padding-top: 5px;
+	overflow: hidden;
+	padding-right: 20px;
+}
+
+li:hover {
+	text-decoration: underline;
+}
+
+ul.top li,
+.squares,
+.sign {
+	display: block;
+	float: left;
+}
+
+ul.top li a:link,
+ul.top li a:visited,
+.squares,
+.sign {
+	padding-top: 7px;
+	display: block;
+	padding-left: 20px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.sign {
+	-webkit-border-radius: 3;
+	-moz-border-radius: 3;
+	border-radius: 3px;
+	color: #ffffff;
+	background: #4386FB;
+	padding: 7px 15px;
+	text-decoration: none;
+	margin-top: -9px;
+	font-weight: 600;
+	font-size: 100%;
+}
+
+.squares {
+	margin-top: -10px;
+	margin-left: -10px;
+	padding-right: 7px;
+}
+
+ul.top li a:link,
+ul.top li a:visited {
+	padding-top: 10px;
+}
+
+.sign:focus {
+	outline: none;
+}
+/***************************
+BOTTOM NAVBAR
+***************************/
+
+ul.bot {
+	list-style-type: none;
+	margin: 0;
+	overflow: hidden;
+	width: 100%;
+	background: #F2F2F2;
+	border-top: 1px solid #e4e4e4;
+	line-height: 40px;
+	height: 50px;
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding-left: 0px;
+	font-size: 90%;
+}
+
+ul.bot li a:link,
+ul.bot li a:visited {
+	padding-top: 7px;
+	color: #666;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+}
+
+ul.bot li {
+	display: block;
+	float: left;
+	padding-left: 30px;
+}
+
+div.right li {
+	padding-left: 55%;
+}
