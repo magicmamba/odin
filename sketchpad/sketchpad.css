@@ -23,10 +23,11 @@ button {
 	border-radius: 3px;
 	color: white;
 	padding: 3px 10px;
+	font-size: 110%;
 }
 
 .container {
-	width: 1000px;
+	width: 100%;
 	margin: 0 auto;
 }
 

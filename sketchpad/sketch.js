@@ -1,11 +1,12 @@
 $(document).ready(function () {
 	displayGrid(20);
+
 	$('.square').mouseenter(function () {
 		$(this).css("background", "white");
 	});
 
 	$('.clear').click(function () {
-		clean();
+		clear();
 	});
 
 	$(".new").click(function () {
@@ -23,13 +24,13 @@ $(document).ready(function () {
 function setGrid() {
 	var col = prompt("Enter number of columns: ");
 	displayGrid(col);
-	clean();
+	clear();
 }
 
-// Create Grid
+// Create grid
 function displayGrid(n) {
-	var size = 1100;
-	var boxSize = ((1100 - 4 * n) / n);
+	var size = 960;
+	var boxSize = ((960 - 4 * n) / n);
 	var wrap = $(".wrap").html("");
 	for (var j = 0; j < n; j++) {
 		for (var i = 0; i < n; i++) {
@@ -39,7 +40,7 @@ function displayGrid(n) {
 	}
 }
 
-
-function clean() {
+// Clear grid
+function clear() {
 	$(".square").css("background", "#004D40").css('opacity', '1');
 }
