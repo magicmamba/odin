@@ -1,6 +1,7 @@
 #Learning Log 
 
 ###August 
+- 24 - Submitted 454 Ballot. Continued RubyMonk.
 - 23 - 454 Balloting Application
 - 22 - Continued with RubyMonk
 - 21 - Continued with RubyMonk
