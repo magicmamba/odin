@@ -1,6 +1,9 @@
 #Learning Log 
 
+## Learn something everyday.
+
 ###August 
+- 26 - Testing 101 (Ruby).
 - 25 - 75% RubyMonk done. Leaving rest for later.
 - 24 - Submitted 454 Ballot. Continued RubyMonk.
 - 23 - 454 Balloting Application
