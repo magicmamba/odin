@@ -3,6 +3,7 @@
 ## Learn something everyday.
 
 ###August 
+- 27 - Intro to RSPEC.
 - 26 - Testing 101 (Ruby).
 - 25 - 75% RubyMonk done. Leaving rest for later.
 - 24 - Submitted 454 Ballot. Continued RubyMonk.
