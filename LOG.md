@@ -3,6 +3,8 @@
 ## Learn something everyday.
 
 ###August 
+- 29 - 
+- 28 - Finished RPSEC Level 1.
 - 27 - Intro to RSPEC.
 - 26 - Testing 101 (Ruby).
 - 25 - 75% RubyMonk done. Leaving rest for later.
