@@ -1,11 +1,3 @@
-def hello
-	"Hello!"
-end 
-
-def greet(who)
-  "Hello, #{who}!"
-end
-
 def ftoc(temp)
  (temp - 32) * 5 / 9
 end 
