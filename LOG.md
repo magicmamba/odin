@@ -3,7 +3,7 @@
 ## Learn something everyday.
 
 ###August 
-- 29 - 
+- 29 - //Sick Day//
 - 28 - Finished RPSEC Level 1.
 - 27 - Intro to RSPEC.
 - 26 - Testing 101 (Ruby).
