@@ -1,6 +1,6 @@
-#Learning Log 
+#Log 
 
-## Learn something everyday.
+#### Learn something everyday.
 
 ###August 
 - 29 - Started Ruby project.
