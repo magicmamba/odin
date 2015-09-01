@@ -2,6 +2,9 @@
 
 #### Learn something everyday.
 
+###September
+- 1 - Databases.
+
 ###August 
 - 31 - Intro to Databases.
 - 30 - Completed Ruby Project.
