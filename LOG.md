@@ -3,6 +3,7 @@
 #### Learn something everyday.
 
 ###August 
+- 31 - Intro to Databases.
 - 30 - Completed Ruby Project.
 - 29 - Started Ruby project.
 - 28 - Finished RPSEC Level 1.
