@@ -3,6 +3,7 @@
 #### Learn something everyday.
 
 ###September
+- 2 - *Sick Day*
 - 1 - Databases.
 
 ###August 
