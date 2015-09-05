@@ -3,8 +3,8 @@
 #### Learn something everyday.
 
 ###September
-- 5 - Finished Databases and SQL refresh.
-- 4 - *Sick Day*
+- 5 - Intro to frameworks and Ruby on Rails.
+- 4 - Finished Databases and SQL refresh.
 - 3 - *Sick Day*
 - 2 - *Sick Day*
 - 1 - Databases.
