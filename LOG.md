@@ -3,7 +3,8 @@
 #### Learn something everyday.
 
 ###September
-- 4 - Finished Databases and SQL refresh.
+- 5 - Finished Databases and SQL refresh.
+- 4 - *Sick Day*
 - 3 - *Sick Day*
 - 2 - *Sick Day*
 - 1 - Databases.
