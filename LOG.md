@@ -3,6 +3,9 @@
 #### Learn something everyday.
 
 ###September
+- 14 - Started Rails for Zombies 
+- **-----**
+
 - 5 - Intro to frameworks and Ruby on Rails.
 - 4 - Finished Databases and SQL refresh.
 - 3 - *Sick Day*
