@@ -3,6 +3,7 @@
 #### Learn something everyday.
 
 ###September
+- 15 - Continued Rails for Zombies 
 - 14 - Started Rails for Zombies 
 - **-----**
 - 5 - Intro to frameworks and Ruby on Rails.
