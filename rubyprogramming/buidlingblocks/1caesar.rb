@@ -20,3 +20,5 @@ def caesar_cipher(text, shift)
 end 
 
 puts caesar_cipher("What a string!", 5)
+
+#bad code yo, more effort for the next one.
